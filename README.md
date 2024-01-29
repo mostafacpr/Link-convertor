@@ -9,3 +9,11 @@
 <li>Blue</li>
 
 </ol>
+
+
+<p>I strongly recommend against using any
+<code>&lt;blink&gt;</code> tags.</p>
+
+<p>I wish SmartyPants used named entities like
+<code>&amp;mdash;</code> instead of decimal-encoded
+entities like <code>&amp;#8212;</code>.</p>
