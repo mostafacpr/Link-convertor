@@ -3,4 +3,4 @@
 # https:/link.fix7.shop
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](http://uplnk.com/f/3ebd5f66/disablebatteryoptimizeinhiddifynext.gif)
